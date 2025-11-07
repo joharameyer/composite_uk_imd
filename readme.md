@@ -400,7 +400,7 @@ Aspects of housing appear in different domains in different nations. The 'housin
 
 ## Generating index
 
-To recreate the indexes requires python (3.8+) and pipenv:
+To recreate the indexes requires python (3.10+) and pipenv:
 
 ```
 pipenv install
